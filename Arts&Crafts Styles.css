@@ -1,0 +1,47 @@
+title {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url("pattern.jpeg");
+    }
+   
+h1 {
+       font-family: Helvetica;
+       font-size: 32px;
+       font-weight: bold;
+       color: white;
+      }    
+
+h2 {
+        font-family: Helvetica;
+        font-size: 22px;
+        font-weight: bold;
+        color: black;
+       }   
+       
+h3 {
+        font-family: Helvetica;
+        font-size: 16px;
+        font-weight: normal;
+        color: black;
+       }   
+
+h1.Brushes {
+background-color: mediumspringgreen;
+}       
+
+h1.Frames {
+    background-color: lightcoral;
+    }       
+
+h1.Paint {
+        background-color: skyblue;
+        }           
+
+mark.blue {
+    font-family: Helvectica;
+    font-weight: bold;
+    color: blue;
+}        
